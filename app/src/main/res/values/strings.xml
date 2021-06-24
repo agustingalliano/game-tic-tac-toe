@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Ta te ti</string>
+    <string name="a_player">1 jugador</string>
+    <string name="another_player">2 jugadores</string>
+    <string name="easy">Facil</string>
+    <string name="normal">Normal</string>
+    <string name="difficult">Dificil</string>
+    <string name="tile">Casilla</string>
+    <string name="circle_win">¡Jugador 1 gana!</string>
+    <string name="crosses_win">¡Jugador 2 gana!</string>
+    <string name="tie">¡Empate!</string>
+
+</resources>

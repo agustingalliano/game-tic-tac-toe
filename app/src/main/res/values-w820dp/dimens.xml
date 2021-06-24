@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_screen">124dp</dimen>
+    <dimen name="box">160dp</dimen>
+    <dimen name="text_title">60sp</dimen>
+    <dimen name="text_button">36sp</dimen>
+    <dimen name="width_min_button">280dp</dimen>
+    <dimen name="height_min_button">62dp</dimen>
+    <dimen name="margin_button">12dp</dimen>
+    <dimen name="radius_button">12dp</dimen>
+    <dimen name="padding_button">12dp</dimen>
+    <dimen name="text_radius">24sp</dimen>
+</resources>

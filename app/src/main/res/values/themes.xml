@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Ejercicio_Juego" parent="android:Theme.Holo.NoActionBar.Fullscreen" />
+    <style name="title" parent="android:Theme.Holo.NoActionBar.Fullscreen" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_title</item>
+    </style>
+    <style name="button" parent="android:Theme.Holo.NoActionBar.Fullscreen" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:minWidth">@dimen/width_min_button</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/height_min_button</item>
+        <item name="android:layout_margin">@dimen/margin_button</item>
+        <item name="android:textSize">@dimen/text_button</item>
+        <item name="android:background">@drawable/buttonn</item>
+    </style>
+    <style name="radio" parent="android:Theme.Holo.NoActionBar.Fullscreen" >
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_radius</item>
+        <item name="android:alpha">0.8</item>
+        <item name="android:buttonTint">@color/pink</item>
+    </style>
+    <style name="box" parent="android:Theme.Holo.NoActionBar.Fullscreen" >
+        <item name="android:layout_width">@dimen/box</item>
+        <item name="android:layout_height">@dimen/box</item>
+        <item name="android:src">@drawable/box</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+
+</resources>
